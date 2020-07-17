@@ -2,7 +2,7 @@
 title: Bits&Bytes
 description: 
 published: true
-date: 2020-07-17T13:08:46.186Z
+date: 2020-07-17T13:40:13.503Z
 tags: 
 editor: markdown
 ---
@@ -32,6 +32,9 @@ Basicamente tambien, hace ya tiempo detectamos que mandando tres ondas con una d
 
 ## Bit
 Podemos definir sencillammente a los Bit como la subidad y la bajada de una onda electromagnetica, que se representa con 1 ( subida) 0 ( bajada)
+
+
+
 
 
 
