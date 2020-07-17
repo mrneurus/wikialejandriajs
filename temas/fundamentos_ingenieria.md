@@ -2,7 +2,7 @@
 title: Fundamentos Ingenieria
 description: 
 published: true
-date: 2020-07-17T12:19:43.317Z
+date: 2020-07-17T12:25:01.848Z
 tags: ingenieria, softfware
 editor: markdown
 ---
@@ -16,4 +16,4 @@ Your content here
 ## Topicos::
 - [Computo, Procesador, Memoria](/temas/fundamentos_ingenieria/computo_procesador_memoria)
 
-- [Bits & Bytes](/temas/bits&bytes)
+- [bits&bytes](/temas/fundamentos_ingenieria/bits&bytes)
