@@ -2,7 +2,7 @@
 title: Fundamentos Ingenieria
 description: 
 published: true
-date: 2020-07-17T12:27:41.690Z
+date: 2020-07-17T12:30:35.532Z
 tags: ingenieria, softfware
 editor: markdown
 ---
