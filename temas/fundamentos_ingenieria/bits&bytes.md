@@ -2,7 +2,7 @@
 title: Bits&Bytes
 description: 
 published: true
-date: 2020-07-17T13:03:09.877Z
+date: 2020-07-17T13:08:46.186Z
 tags: 
 editor: markdown
 ---
@@ -26,4 +26,14 @@ Basicamente tambien, hace ya tiempo detectamos que mandando tres ondas con una d
 
 > Los rayos catódicos son corrientes de electrones en tubos de vacío, es decir en los tubos de cristal que se equipan por lo menos con dos electrodos, un cátodo (electrodo negativo) y un ánodo (electrodo positivo) en una configuración conocida como diodo. Cuando se calienta el cátodo, emite una cierta radiación que viaja hacia el ánodo. Si las paredes internas de vidrio detrás del ánodo están cubiertas con un material fluorescente, brillan intensamente.
 {.is-info}
+
+> Continuar explicando
+{.is-danger}
+
+## Bit
+Podemos definir sencillammente a los Bit como la subidad y la bajada de una onda electromagnetica, que se representa con 1 ( subida) 0 ( bajada)
+
+
+
+
 
