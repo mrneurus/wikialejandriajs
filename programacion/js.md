@@ -2,7 +2,7 @@
 title: JavaScript
 description: 
 published: true
-date: 2020-07-18T08:33:03.794Z
+date: 2020-07-18T08:34:18.952Z
 tags: 
 editor: markdown
 ---
